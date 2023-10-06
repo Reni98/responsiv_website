@@ -1,0 +1,9 @@
+ https://cdnjs.com/libraries/jquery/3.2.1
+ 
+ Az <a> címke egy hiperhivatkozást (linket) reprezentál egy weboldalon. 
+ Az href attribútum az URL-t (webcím) tartalmazza, amelyre a link mutat.
+
+A #home az egy ún. hash link vagy egyszerűen csak hash.
+ Ez azt jelenti, hogy a link egy olyan elemre vagy helyre mutat az aktuális oldalon,
+  amelynek az azonosítója "home". Amikor valaki rákattint erre a linkre, 
+  az oldal automatikusan a "home" azonosítójú elemhez görget.
